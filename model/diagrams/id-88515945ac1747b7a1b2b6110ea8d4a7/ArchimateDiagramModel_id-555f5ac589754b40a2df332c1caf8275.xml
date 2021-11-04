@@ -7,8 +7,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-211f6e46bb764254a8bf2787c4c36b64">
     <bounds
-        x="160"
-        y="80"
+        x="24"
+        y="24"
         width="120"
         height="55"/>
     <referencedModel
