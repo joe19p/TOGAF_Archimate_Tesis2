@@ -17,48 +17,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6a1c1f2d7b764eaabd930915d37d7fdf">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-15e1becc7f4b41f4b55277cfd575b057"
-        source="id-6a1c1f2d7b764eaabd930915d37d7fdf"
-        target="id-605f67a8486f474cb4d56c6aa27c0519">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-201853a8ad2c4e838555e66db4840ef0.xml#id-201853a8ad2c4e838555e66db4840ef0"/>
-    </sourceConnections>
+      id="id-ed347a744bff4278b900e39e5007cdc3">
     <bounds
-        x="636"
-        y="235"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-2fd4f79456c74bdcb24f075de2560882.xml#id-2fd4f79456c74bdcb24f075de2560882"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-605f67a8486f474cb4d56c6aa27c0519"
-      targetConnections="id-15e1becc7f4b41f4b55277cfd575b057">
-    <bounds
-        x="894"
-        y="267"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-7b136f81807d48b8a0354faffd133031.xml#id-7b136f81807d48b8a0354faffd133031"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-446b2a8a404342b4ab4494fe3950b9cb">
-    <bounds
-        x="72"
-        y="276"
-        width="120"
-        height="55"/>
+        x="324"
+        y="132"
+        width="558"
+        height="213"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-27cb92bee5ff4b96a2ef12a0dc4e27d3.xml#id-27cb92bee5ff4b96a2ef12a0dc4e27d3"/>
+        href="BusinessProcess_id-4481e0f65e9e4a0096b9efb652c8c768.xml#id-4481e0f65e9e4a0096b9efb652c8c768"/>
   </children>
 </archimate:ArchimateDiagramModel>
