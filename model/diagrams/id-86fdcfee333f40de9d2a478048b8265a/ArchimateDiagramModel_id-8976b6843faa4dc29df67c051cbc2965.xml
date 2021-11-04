@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VistaMotivacion"
+    name="1. Vista de Motivación"
     id="id-8976b6843faa4dc29df67c051cbc2965">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -749,5 +749,17 @@
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-2db8b32c749c43368a6c9ec8057d5115.xml#id-2db8b32c749c43368a6c9ec8057d5115"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-42e0571e869e4b919dc2f51c6eb7d063">
+    <bounds
+        x="12"
+        y="18"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </archimate:ArchimateDiagramModel>
