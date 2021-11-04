@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VistaTecnologia"
+    id="id-e25a5d109f0c4ebb854843c727ed96b8">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-43696b245e824c0987b961662b4e4d28">
+    <bounds
+        x="192"
+        y="108"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

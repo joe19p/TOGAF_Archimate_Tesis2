@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VistaAplicación"
+    id="id-555f5ac589754b40a2df332c1caf8275">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-211f6e46bb764254a8bf2787c4c36b64">
+    <bounds
+        x="160"
+        y="80"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
