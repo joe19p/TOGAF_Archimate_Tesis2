@@ -15,4 +15,28 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-24933fff1f05423fa7984c7d2cb1b791">
+    <bounds
+        x="373"
+        y="219"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationProcess"
+        href="ApplicationProcess_id-32a43ba73abc417caebd639a79d4a46e.xml#id-32a43ba73abc417caebd639a79d4a46e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cf262e849496454085347ef1de8d0309">
+    <bounds
+        x="683"
+        y="263"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationCollaboration"
+        href="ApplicationCollaboration_id-462c3679ef534dfc960e8cc2e41c4d74.xml#id-462c3679ef534dfc960e8cc2e41c4d74"/>
+  </children>
 </archimate:ArchimateDiagramModel>
