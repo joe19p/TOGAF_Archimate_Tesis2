@@ -1,0 +1,66 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2. Arquitectura de alto nivel"
+    id="id-1a78f83cc5ae4c7cbfa1144a66fa5abe">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-2082047ca8dd40c2967b02aeedfc2ce2">
+    <bounds
+        x="24"
+        y="12"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-65f34e7ee44541388a526dbc25d892d8"
+      name="Procesos de Negocio"
+      textAlignment="1"
+      fillColor="#fdfee4">
+    <bounds
+        x="360"
+        y="144"
+        width="745"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-aa72afd6f05e455099a33022c282c9d5">
+      <bounds
+          x="48"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-05f58b07108248aeb463ea283721c4af.xml#id-05f58b07108248aeb463ea283721c4af"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-cd38e6b0fbec40369f4c7639b7850e7d"
+      name="Componentes de aplicación y servicios"
+      textAlignment="1"
+      fillColor="#c8f1f2">
+    <bounds
+        x="360"
+        y="312"
+        width="745"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-c091296c93c64ba198b6bfb69d9204bf"
+      name="Infrestructura tecnológica"
+      textAlignment="1"
+      fillColor="#daf3db">
+    <bounds
+        x="360"
+        y="480"
+        width="745"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
