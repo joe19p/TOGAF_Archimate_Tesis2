@@ -39,4 +39,28 @@
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-462c3679ef534dfc960e8cc2e41c4d74.xml#id-462c3679ef534dfc960e8cc2e41c4d74"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-995784c5e9704bf8a2fd8b9173cc285d">
+    <bounds
+        x="456"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-1dd6bd5e656e485a9f5d75f34fed255a.xml#id-1dd6bd5e656e485a9f5d75f34fed255a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1d2f1742764140c0b5f31055fe8162bc">
+    <bounds
+        x="192"
+        y="312"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-29c57e6c05b744a89fd2ee7be6635ace.xml#id-29c57e6c05b744a89fd2ee7be6635ace"/>
+  </children>
 </archimate:ArchimateDiagramModel>
