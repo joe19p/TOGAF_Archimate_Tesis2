@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="No"
     id="id-f4ecac09cddc48bcb680d8b06ac13da6">
   <source
       xsi:type="archimate:Junction"
