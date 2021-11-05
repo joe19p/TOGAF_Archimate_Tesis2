@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-fc32803416eb4d78803e5c252ca56aa4"
-      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI Semibold|13.8|0|WINDOWS|1|-23|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
       fillColor="#bfbbf7"
       textPosition="1">
     <bounds
@@ -33,7 +33,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-1dec825393ba4b23bf0703412e82b96d"
-        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-20|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
         fillColor="#ffffb5"
         textPosition="1">
       <bounds
@@ -48,7 +48,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-d18f8c4c5790412889d834dc2e5cc5a2"
-        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-20|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
         fillColor="#b5ffff"
         textPosition="1">
       <bounds
@@ -63,7 +63,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-5e97c3769b5c49209a69d44304f319cb"
-        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-20|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
         fillColor="#c9e7b7"
         textPosition="1">
       <bounds
@@ -91,7 +91,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-8f4e2a84c3684e80bea158a24f2ee4ad"
-        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-20|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
         fillColor="#ffffb5"
         textPosition="1">
       <bounds
@@ -106,7 +106,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-f5b2af14b3404fedad7561d8eb4e8514"
-        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-20|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
         fillColor="#b5ffff"
         textPosition="1">
       <bounds
@@ -121,7 +121,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-26fd46670f9346ada0c85cf7e218273d"
-        font="1|Segoe UI|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        font="1|Segoe UI Semibold|12.0|0|WINDOWS|1|-20|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
         fillColor="#c9e7b7"
         textPosition="1">
       <bounds
@@ -137,7 +137,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-620ff00010c94854a6147824ba64c6d7"
-      font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffcf9f"
       content="Arquitectura Empresarial&#xD;&#xA;"
       textPosition="1"
@@ -151,7 +151,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-ebca9ed0fa5d43bc81ce74c94222ff70"
-      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI Semibold|13.8|0|WINDOWS|1|-23|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
       fillColor="#b5b5ff"
       textPosition="1">
     <bounds
@@ -166,7 +166,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-83124c7f74064737a51bf7c3ac1509a9"
-      font="1|Segoe UI|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      font="1|Segoe UI Semibold|13.8|0|WINDOWS|1|-23|0|0|0|600|0|0|0|0|3|2|1|34|Segoe UI Semibold"
       textPosition="1">
     <bounds
         x="600"
