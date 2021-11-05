@@ -4,18 +4,6 @@
     name="Arquitectura de Negocio AS-IS"
     id="id-7815e6aed2e548dfa2282fd751cb6460">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-da9b8194f22e45bcb760263f26e3f00f">
-    <bounds
-        x="24"
-        y="-12"
-        width="174"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9a8944addb7d45818e365ee7a5432a96"
       targetConnections="id-b4f3a729a4fc4ee38bb80f3ebbdaf4ee id-d7c95c6b719d4e32a711f40d17354089">
@@ -1248,5 +1236,31 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-5931d40f164a457180f689b4f6815a9e.xml#id-5931d40f164a457180f689b4f6815a9e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-ecacd9c6b1d34aa7a64e7640a9997615"
+      fontColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="24"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </archimate:ArchimateDiagramModel>

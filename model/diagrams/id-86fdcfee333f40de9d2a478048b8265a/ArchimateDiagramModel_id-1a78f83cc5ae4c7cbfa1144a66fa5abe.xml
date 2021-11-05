@@ -4,18 +4,6 @@
     name="Arquitectura de alto nivel"
     id="id-1a78f83cc5ae4c7cbfa1144a66fa5abe">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-2082047ca8dd40c2967b02aeedfc2ce2">
-    <bounds
-        x="36"
-        y="12"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-65f34e7ee44541388a526dbc25d892d8"
       name="Procesos de Negocio"
@@ -542,5 +530,31 @@
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-3d838d018c4a4d529f60452cba7c1e5e.xml#id-3d838d018c4a4d529f60452cba7c1e5e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-3ae420f6fb5c48b4bd326facc40d3827"
+      fontColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="24"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </archimate:ArchimateDiagramModel>

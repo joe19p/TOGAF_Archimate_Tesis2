@@ -4,18 +4,6 @@
     name="Arquitectura de Aplicación AS-IS"
     id="id-555f5ac589754b40a2df332c1caf8275">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-211f6e46bb764254a8bf2787c4c36b64">
-    <bounds
-        x="12"
-        y="12"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4fe480c6791d4288bcef60d3de05c7d7">
     <sourceConnections
@@ -919,5 +907,31 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-89ff3cade2554804b0eb15517489b1a1.xml#id-89ff3cade2554804b0eb15517489b1a1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a3e2ef25c8514a34a032e3dafcfcd2ce"
+      fontColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="-36"
+        y="24"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="vistaGeneral"
+    name="Vista General"
     id="id-497251f4251245d0a5aea18a5946591f">
   <children
       xsi:type="archimate:DiagramModelReference"
