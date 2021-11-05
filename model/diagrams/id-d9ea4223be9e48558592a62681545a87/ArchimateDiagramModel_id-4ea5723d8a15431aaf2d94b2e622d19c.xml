@@ -1,15 +1,15 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Diagrama de Principios de arquitectura"
+    name="Principios de arquitectura"
     id="id-4ea5723d8a15431aaf2d94b2e622d19c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-50bf6f7c57914c9980604dbf48936c8f"
       targetConnections="id-aa7b73e90d6c4bce879608d280a66826 id-a0f3365d6cbc4140b163bc568d4e9d09 id-bf3a0c83f049408481c447f67803f09a">
     <bounds
-        x="132"
-        y="311"
+        x="68"
+        y="263"
         width="186"
         height="55"/>
     <archimateElement
@@ -30,8 +30,8 @@
           href="SpecializationRelationship_id-e79f2c26cb9d4848939cf17f444772d4.xml#id-e79f2c26cb9d4848939cf17f444772d4"/>
     </sourceConnections>
     <bounds
-        x="359"
-        y="432"
+        x="295"
+        y="384"
         width="148"
         height="55"/>
     <archimateElement
@@ -52,8 +52,8 @@
           href="SpecializationRelationship_id-7d6e365ddca34870b250b7954dba9447.xml#id-7d6e365ddca34870b250b7954dba9447"/>
     </sourceConnections>
     <bounds
-        x="354"
-        y="324"
+        x="290"
+        y="276"
         width="157"
         height="55"/>
     <archimateElement
@@ -66,8 +66,8 @@
       name="Principios de Negocio"
       textAlignment="1">
     <bounds
-        x="616"
-        y="384"
+        x="552"
+        y="336"
         width="303"
         height="109"/>
     <children
@@ -134,8 +134,8 @@
       name="Principios de datos"
       textAlignment="1">
     <bounds
-        x="612"
-        y="144"
+        x="548"
+        y="96"
         width="307"
         height="109"/>
     <children
@@ -196,8 +196,8 @@
       name="Principios de aplicación"
       textAlignment="1">
     <bounds
-        x="616"
-        y="504"
+        x="552"
+        y="456"
         width="303"
         height="109"/>
     <children
@@ -264,8 +264,8 @@
       name="Principio de tecnología"
       textAlignment="1">
     <bounds
-        x="616"
-        y="264"
+        x="552"
+        y="216"
         width="303"
         height="102"/>
     <children
@@ -340,12 +340,38 @@
           href="InfluenceRelationship_id-627e434b9f6943a1a7f9a5c8936addb5.xml#id-627e434b9f6943a1a7f9a5c8936addb5"/>
     </sourceConnections>
     <bounds
-        x="349"
-        y="180"
+        x="285"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Driver"
         href="Driver_id-af5946756b4d4a08aede8ce3e71a874f.xml#id-af5946756b4d4a08aede8ce3e71a874f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-79c0e420c0574738a93b413d616cd016"
+      fontColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="24"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </archimate:ArchimateDiagramModel>
