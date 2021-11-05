@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Arquitectura de alto nivel"
+    name="Arquitectura de alto nivel"
     id="id-1a78f83cc5ae4c7cbfa1144a66fa5abe">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -22,8 +22,8 @@
       textAlignment="1"
       fillColor="#fdfee4">
     <bounds
-        x="360"
-        y="144"
+        x="288"
+        y="48"
         width="745"
         height="140"/>
     <children
@@ -46,8 +46,8 @@
       textAlignment="1"
       fillColor="#c8f1f2">
     <bounds
-        x="360"
-        y="312"
+        x="288"
+        y="216"
         width="745"
         height="140"/>
   </children>
@@ -58,8 +58,8 @@
       textAlignment="1"
       fillColor="#daf3db">
     <bounds
-        x="360"
-        y="480"
+        x="288"
+        y="384"
         width="745"
         height="140"/>
   </children>

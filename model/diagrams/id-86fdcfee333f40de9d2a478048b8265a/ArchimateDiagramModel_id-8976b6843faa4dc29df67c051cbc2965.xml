@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Vista de Motivación"
+    name="Arquitectura de Visión"
     id="id-8976b6843faa4dc29df67c051cbc2965">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
