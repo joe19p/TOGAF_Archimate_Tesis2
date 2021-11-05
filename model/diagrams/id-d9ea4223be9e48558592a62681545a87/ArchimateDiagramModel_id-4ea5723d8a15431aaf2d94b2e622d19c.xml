@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Diagrama de Principios de arquitectura"
+    name="Principios de arquitectura"
     id="id-4ea5723d8a15431aaf2d94b2e622d19c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

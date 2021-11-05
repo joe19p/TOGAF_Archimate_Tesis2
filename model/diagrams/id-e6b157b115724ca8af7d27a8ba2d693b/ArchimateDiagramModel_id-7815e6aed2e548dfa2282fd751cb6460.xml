@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista Arquitectura de Negocio AS-IS"
+    name="Arquitectura de Negocio AS-IS"
     id="id-7815e6aed2e548dfa2282fd751cb6460">
   <children
       xsi:type="archimate:DiagramModelReference"

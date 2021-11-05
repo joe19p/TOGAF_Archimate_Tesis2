@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Vista Arquitectura de Aplicación TO-BE"
+    name="Arquitectura de Aplicación TO-BE"
     id="id-4163c03c0a1b49bbbe898bf05a4cd1b9">
   <children
       xsi:type="archimate:DiagramModelReference"
