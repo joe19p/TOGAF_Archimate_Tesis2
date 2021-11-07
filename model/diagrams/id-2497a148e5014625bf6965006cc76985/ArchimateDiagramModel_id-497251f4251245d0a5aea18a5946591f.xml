@@ -90,21 +90,6 @@
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-53df33ee0daa4d54829d8378bdab53a2"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-        fillColor="#ffffb5"
-        textPosition="1">
-      <bounds
-          x="24"
-          y="36"
-          width="133"
-          height="73"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-4ed9fef322224576a2bd90e9dbe97d8f.xml#id-4ed9fef322224576a2bd90e9dbe97d8f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-3d215011041f4808aa08e3085a331df2"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#b5ffff"
