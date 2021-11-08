@@ -260,9 +260,9 @@
       fillColor="#bfbbf7"
       textPosition="1">
     <bounds
-        x="528"
-        y="209"
-        width="337"
+        x="564"
+        y="228"
+        width="217"
         height="61"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
@@ -276,9 +276,9 @@
       textAlignment="1"
       fillColor="#e3e3e3">
     <bounds
-        x="528"
-        y="281"
-        width="673"
+        x="564"
+        y="300"
+        width="457"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -287,7 +287,7 @@
         fillColor="#ffffb5"
         textPosition="1">
       <bounds
-          x="24"
+          x="12"
           y="36"
           width="133"
           height="73"/>
@@ -302,7 +302,7 @@
         fillColor="#b5ffff"
         textPosition="1">
       <bounds
-          x="264"
+          x="156"
           y="36"
           width="145"
           height="73"/>
@@ -317,7 +317,7 @@
         fillColor="#c9e7b7"
         textPosition="1">
       <bounds
-          x="504"
+          x="312"
           y="36"
           width="133"
           height="73"/>
@@ -334,9 +334,9 @@
       textAlignment="1"
       fillColor="#e3e3e3">
     <bounds
-        x="528"
-        y="425"
-        width="673"
+        x="564"
+        y="444"
+        width="457"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -345,7 +345,7 @@
         fillColor="#b5ffff"
         textPosition="1">
       <bounds
-          x="264"
+          x="156"
           y="36"
           width="145"
           height="73"/>
@@ -360,7 +360,7 @@
         fillColor="#c9e7b7"
         textPosition="1">
       <bounds
-          x="504"
+          x="312"
           y="36"
           width="133"
           height="73"/>
@@ -373,7 +373,7 @@
         id="id-9289ec36e32b405c9d4940f076437a80"
         fillColor="#ffffb5">
       <bounds
-          x="24"
+          x="12"
           y="36"
           width="133"
           height="73"/>
@@ -391,9 +391,9 @@
       textPosition="1"
       borderType="1">
     <bounds
-        x="528"
-        y="89"
-        width="673"
+        x="564"
+        y="108"
+        width="457"
         height="44"/>
   </children>
   <children
@@ -403,9 +403,9 @@
       fillColor="#b5b5ff"
       textPosition="1">
     <bounds
-        x="528"
-        y="137"
-        width="673"
+        x="564"
+        y="156"
+        width="457"
         height="61"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
@@ -417,9 +417,9 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textPosition="1">
     <bounds
-        x="876"
-        y="209"
-        width="325"
+        x="792"
+        y="228"
+        width="229"
         height="61"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
