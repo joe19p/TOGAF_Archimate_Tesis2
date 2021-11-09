@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fase F Entregables"
+    id="id-880ecf953ebe4f0ca6d1065424dee2d5">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-330bc8e9f20d404ca6c97fa760152fb3"
+      fontColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="12"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

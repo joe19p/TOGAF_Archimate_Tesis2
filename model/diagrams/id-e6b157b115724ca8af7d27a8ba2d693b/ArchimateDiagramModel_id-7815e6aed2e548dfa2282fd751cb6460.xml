@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura de Negocio AS-IS"
+    name="1. Arquitectura de Negocio AS-IS"
     id="id-7815e6aed2e548dfa2282fd751cb6460">
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -21,7 +21,7 @@
         name="labelExpression"
         value=" "/>
     <bounds
-        x="24"
+        x="12"
         y="12"
         width="49"
         height="49"/>

@@ -1,18 +1,274 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="vistaGeneral"
+    name="Vista General"
     id="id-497251f4251245d0a5aea18a5946591f">
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-cb74559c2a3a4b8396e681191b0c52ed"
+      id="id-f94808fdd53f4d588a393c5056673528"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_rXB0cD_tEeyOkL5oDZSk3g.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Fase Preliminar"/>
+    <bounds
+        x="204"
+        y="36"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-ae3c184320a24a06b35329c71701ed9b.xml#id-ae3c184320a24a06b35329c71701ed9b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-70cd0ded450342479e5afcffd9a40cc0"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_rXB0cD_tEeyOkL5oDZSk3g.png"
+      imagePosition="9">
+    <features
+        name="labelExpression"
+        value="Fase A: Visión de Arquitectura"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="204"
+        y="168"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-86b0318131054181815409f2593cc5bf.xml#id-86b0318131054181815409f2593cc5bf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-21722df1e5484374a8d8ce2d6282aadb"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_XZAm0D_tEeyOkL5oDZSk3g.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Fase B: Arquitectura de Negocios"/>
+    <bounds
+        x="312"
+        y="228"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-2848aa87756b46da8b08f27f70eb5bc6.xml#id-2848aa87756b46da8b08f27f70eb5bc6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f345eb5fa946478eb1347855dd50b0ee"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_HAKToD_uEeyOkL5oDZSk3g.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Fase C: Arquitectura de Sistemas de información"/>
+    <bounds
+        x="372"
+        y="336"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-05e81604a7f8425780e19ba5e9b0d198.xml#id-05e81604a7f8425780e19ba5e9b0d198"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-cf15b34c70474ade9cd7534477285adb"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_WuemoD_uEeyOkL5oDZSk3g.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Fase D: Arquitectura de Tecnológica"/>
+    <bounds
+        x="312"
+        y="444"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-14c464b5d7b14e85a8178f230f190214.xml#id-14c464b5d7b14e85a8178f230f190214"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f2175082ff5d4e329bad413e7402bc90"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_F5-TkEAuEeyidb7zb1V3UQ.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Fase E: Oportunidades y Soluciones"/>
+    <bounds
+        x="204"
+        y="504"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-eaace97d44834855898fc012f9661ae7.xml#id-eaace97d44834855898fc012f9661ae7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-40298ee282bb45d99bcbba9e98d292e5"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_F5-TkEAuEeyidb7zb1V3UQ.png"
+      imagePosition="9">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="Fase F: Planificación de migración"/>
+    <bounds
+        x="96"
+        y="444"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-880ecf953ebe4f0ca6d1065424dee2d5.xml#id-880ecf953ebe4f0ca6d1065424dee2d5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-e50dfa9e12004cabb13ed9910d5eb9bb"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_F5-TkEAuEeyidb7zb1V3UQ.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Fase G: Gobierno de la implementación"/>
+    <bounds
+        x="36"
+        y="336"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-663ab24b6ced4234a70841c8c448b513.xml#id-663ab24b6ced4234a70841c8c448b513"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-cfd4da29837745c7bd50d86a83b196c1"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_rXB0cD_tEeyOkL5oDZSk3g.png"
+      imagePosition="9">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="Fase H: Desarrollo y Mantenimiento"/>
+    <bounds
+        x="96"
+        y="228"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-8d9c4c5064ab4d628ff9fafc0b6a5ff6.xml#id-8d9c4c5064ab4d628ff9fafc0b6a5ff6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_wQfNMEAuEeyidb7zb1V3UQ.png"
+      imagePosition="9">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value="Gestión de Requerimientos"/>
+    <bounds
+        x="204"
+        y="336"
+        width="109"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-1654c0f2942e4d168723807e9d6e1fca.xml#id-1654c0f2942e4d168723807e9d6e1fca"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-9664896419984934a8778b4d82c5d336"
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#bfbbf7"
       textPosition="1">
+    <features
+        name="labelExpression"
+        value="Arquitectura de Visión"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="108"
-        y="180"
-        width="337"
+        x="564"
+        y="240"
+        width="217"
         height="61"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
@@ -20,24 +276,30 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-cb25f6fcdb5d44c58eca08edae89cb06"
+      id="id-41c91007f7dd44dfba2ae0c4169eca1f"
       name="Arquitectura AS-IS"
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#e3e3e3">
     <bounds
-        x="108"
-        y="252"
-        width="673"
+        x="564"
+        y="312"
+        width="457"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-1765e506ea4345bebf9b11b2aa0fb16f"
+        id="id-4405d35d35cf4583af73bfd7cc55068d"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#ffffb5"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="Arquitectura de Negocio AS-IS"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
-          x="24"
+          x="12"
           y="36"
           width="133"
           height="73"/>
@@ -47,12 +309,18 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-48f5a48e2f3e407f87bcc23a7da1c195"
+        id="id-0c505486e3474e87a79ec4c5cff9f73f"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#b5ffff"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="Arquitectura de Aplicación AS-IS"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
-          x="264"
+          x="156"
           y="36"
           width="145"
           height="73"/>
@@ -62,12 +330,18 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-2db0c62cc32445fe8f131340b233c78f"
+        id="id-e8c1446ef2864373ac42bef9847bb9ba"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#c9e7b7"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="Arquitectura Tecnológica AS-IS"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
-          x="504"
+          x="312"
           y="36"
           width="133"
           height="73"/>
@@ -78,24 +352,30 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-bcee3ae1d5f241a6802a772d41eaaa3b"
+      id="id-9be64cbcefd24121879d81fa9b86b6ba"
       name="Arquitectura TO-BE"
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#e3e3e3">
     <bounds
-        x="108"
-        y="396"
-        width="673"
+        x="564"
+        y="456"
+        width="457"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-3d215011041f4808aa08e3085a331df2"
+        id="id-d1e59c8030d944169622d405bf5a6b05"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#b5ffff"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="Arquitectura de Aplicación TO-BE"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
-          x="264"
+          x="156"
           y="36"
           width="145"
           height="73"/>
@@ -105,12 +385,18 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-a12ce758a6854d7b92fdeb0d0e1bcb4a"
+        id="id-7ee087b5ef284390b42534dc93019df4"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#c9e7b7"
         textPosition="1">
+      <features
+          name="labelExpression"
+          value="Arquitectura Tecnológica TO-BE"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
-          x="504"
+          x="312"
           y="36"
           width="133"
           height="73"/>
@@ -120,10 +406,17 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-659d2a72eea34176a5fcd47843b401aa"
-        fillColor="#ffffb5">
+        id="id-21425431ec8944e3bd764b57b110feb2"
+        fillColor="#ffffb5"
+        textPosition="1">
+      <features
+          name="labelExpression"
+          value="Arquitectura de Negocio TO-BE"/>
+      <features
+          name="iconVisible"
+          value="2"/>
       <bounds
-          x="24"
+          x="12"
           y="36"
           width="133"
           height="73"/>
@@ -134,28 +427,34 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-f0502f7027134af5aa73deee7e1474c3"
+      id="id-564f11c4723d4ed687607217432ae52f"
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffcf9f"
       content="Arquitectura Empresarial&#xD;&#xA;"
       textPosition="1"
       borderType="1">
     <bounds
-        x="108"
-        y="60"
-        width="673"
+        x="564"
+        y="120"
+        width="457"
         height="44"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-d39715af2f9d4373bb45941096ccfa52"
+      id="id-c8a8173bbff540d496275b9d3d646b99"
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#b5b5ff"
       textPosition="1">
+    <features
+        name="labelExpression"
+        value="Principios de Arquitectura"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="108"
-        y="108"
-        width="673"
+        x="564"
+        y="168"
+        width="457"
         height="61"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
@@ -163,13 +462,19 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-ff559e2d8f484ff2a87c1ae38fc63d87"
+      id="id-cf5803483e714881b3ad3fc5db955019"
       font="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textPosition="1">
+    <features
+        name="labelExpression"
+        value="Arquitectura de Alto nivel"/>
+    <features
+        name="iconVisible"
+        value="2"/>
     <bounds
-        x="456"
-        y="180"
-        width="325"
+        x="792"
+        y="240"
+        width="229"
         height="61"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"

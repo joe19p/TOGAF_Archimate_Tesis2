@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura de Alto nivel"
+    name="2. Arquitectura de Alto nivel"
     id="id-1a78f83cc5ae4c7cbfa1144a66fa5abe">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -550,7 +550,7 @@
         name="labelExpression"
         value=" "/>
     <bounds
-        x="24"
+        x="12"
         y="12"
         width="49"
         height="49"/>
