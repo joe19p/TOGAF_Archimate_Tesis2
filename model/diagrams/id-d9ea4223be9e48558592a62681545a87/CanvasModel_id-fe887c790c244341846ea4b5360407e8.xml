@@ -21,16 +21,19 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-b3db736be3824c36b6cc93b8472092d8"
+      id="id-bd4ebf3829e644198f4f43e832c0afe3"
       alpha="0"
       imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
       imagePosition="9">
     <features
-        name="lineAlpha"
-        value="0"/>
+        name="iconVisible"
+        value="2"/>
     <features
         name="labelExpression"
         value=" "/>
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="12"
         y="12"
@@ -38,6 +41,6 @@
         height="49"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-ae3c184320a24a06b35329c71701ed9b.xml#id-ae3c184320a24a06b35329c71701ed9b"/>
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </canvas:CanvasModel>

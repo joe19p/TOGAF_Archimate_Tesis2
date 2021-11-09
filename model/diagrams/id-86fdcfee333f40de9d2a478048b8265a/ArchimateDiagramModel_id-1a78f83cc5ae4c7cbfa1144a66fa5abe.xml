@@ -10,8 +10,8 @@
       textAlignment="1"
       fillColor="#fdfee4">
     <bounds
-        x="216"
-        y="120"
+        x="168"
+        y="96"
         width="745"
         height="289"/>
     <children
@@ -173,8 +173,8 @@
       textAlignment="1"
       fillColor="#c8f1f2">
     <bounds
-        x="216"
-        y="420"
+        x="168"
+        y="396"
         width="745"
         height="122"/>
     <children
@@ -294,8 +294,8 @@
       textAlignment="1"
       fillColor="#daf3db">
     <bounds
-        x="216"
-        y="552"
+        x="168"
+        y="528"
         width="745"
         height="187"/>
     <children
@@ -446,8 +446,8 @@
           href="TriggeringRelationship_id-27afec384ac6468da3379369a8df8801.xml#id-27afec384ac6468da3379369a8df8801"/>
     </sourceConnections>
     <bounds
-        x="71"
-        y="258"
+        x="23"
+        y="234"
         width="120"
         height="55"/>
     <archimateElement
@@ -468,8 +468,8 @@
           href="FlowRelationship_id-254f05569817427d9f5a5e488db5f953.xml#id-254f05569817427d9f5a5e488db5f953"/>
     </sourceConnections>
     <bounds
-        x="71"
-        y="192"
+        x="23"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -489,8 +489,8 @@
           href="AssignmentRelationship_id-1d9c45794e6a464f9324b233c9c2e7ff.xml#id-1d9c45794e6a464f9324b233c9c2e7ff"/>
     </sourceConnections>
     <bounds
-        x="71"
-        y="120"
+        x="23"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -524,8 +524,8 @@
           href="AssociationRelationship_id-b7db6c91b36e4eeaab3d1d3c659cefd1.xml#id-b7db6c91b36e4eeaab3d1d3c659cefd1"/>
     </sourceConnections>
     <bounds
-        x="972"
-        y="636"
+        x="924"
+        y="612"
         width="120"
         height="55"/>
     <archimateElement

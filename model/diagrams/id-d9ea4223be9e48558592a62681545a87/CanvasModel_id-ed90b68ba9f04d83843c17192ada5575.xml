@@ -5,27 +5,6 @@
     name="2. Diagrama de esquema organizacional"
     id="id-ed90b68ba9f04d83843c17192ada5575">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-7106e182b5f54a1f85bea2ada567e606"
-      alpha="0"
-      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
-      imagePosition="9">
-    <features
-        name="lineAlpha"
-        value="0"/>
-    <features
-        name="labelExpression"
-        value=" "/>
-    <bounds
-        x="12"
-        y="12"
-        width="49"
-        height="49"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-ae3c184320a24a06b35329c71701ed9b.xml#id-ae3c184320a24a06b35329c71701ed9b"/>
-  </children>
-  <children
       xsi:type="canvas:CanvasModelImage"
       id="id-99aa7916f3d74491a6adf84a0f525e15"
       borderColor="#000000"
@@ -39,5 +18,29 @@
         y="72"
         width="1117"
         height="541"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-34d9bd1e9ce2467c93591a84e10ac270"
+      alpha="0"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </canvas:CanvasModel>
