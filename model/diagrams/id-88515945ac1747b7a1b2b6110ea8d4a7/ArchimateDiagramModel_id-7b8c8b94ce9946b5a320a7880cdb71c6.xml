@@ -34,7 +34,7 @@
       id="id-b444306e65d3478fbfed9d1f65fe05a6"
       targetConnections="id-e018c5558ff040ce82f8b31509e4519c id-219ccacc131540b692cc79ea1a02a1ec">
     <bounds
-        x="708"
+        x="672"
         y="277"
         width="181"
         height="72"/>
@@ -61,7 +61,7 @@
           href="AssociationRelationship_id-6fecceae2ae74571b7f90efd1161c644.xml#id-6fecceae2ae74571b7f90efd1161c644"/>
     </sourceConnections>
     <bounds
-        x="384"
+        x="348"
         y="72"
         width="169"
         height="85"/>
@@ -147,7 +147,7 @@
           href="InfluenceRelationship_id-6af603059c144a95b30d9bad7f948487.xml#id-6af603059c144a95b30d9bad7f948487"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="204"
         y="168"
         width="445"
         height="193"/>
@@ -274,7 +274,7 @@
           href="AssociationRelationship_id-8ddabd33b9824332be258f4229097d37.xml#id-8ddabd33b9824332be258f4229097d37"/>
     </sourceConnections>
     <bounds
-        x="60"
+        x="24"
         y="276"
         width="164"
         height="74"/>
@@ -296,10 +296,10 @@
           href="InfluenceRelationship_id-aff7c15ac7e745df9e36496a5b5b5dbb.xml#id-aff7c15ac7e745df9e36496a5b5b5dbb"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="204"
         y="372"
         width="217"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-9f010263f2d84b7ba8de904f505636cd.xml#id-9f010263f2d84b7ba8de904f505636cd"/>
@@ -318,10 +318,10 @@
           href="InfluenceRelationship_id-23abfc70b7174073b344c47bded8c5bf.xml#id-23abfc70b7174073b344c47bded8c5bf"/>
     </sourceConnections>
     <bounds
-        x="468"
+        x="432"
         y="372"
         width="217"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-2d96b575b6ff46e7a7a2866e8d3c340f.xml#id-2d96b575b6ff46e7a7a2866e8d3c340f"/>
@@ -340,10 +340,10 @@
           href="SpecializationRelationship_id-e79f2c26cb9d4848939cf17f444772d4.xml#id-e79f2c26cb9d4848939cf17f444772d4"/>
     </sourceConnections>
     <bounds
-        x="240"
-        y="444"
+        x="204"
+        y="432"
         width="445"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-c136e24cca0443789c36593601d832d9.xml#id-c136e24cca0443789c36593601d832d9"/>
@@ -353,10 +353,10 @@
       id="id-2620e6da9d894585b6c87fb3937acdf6"
       targetConnections="id-ad4222f538bb43ac8ceb45f76e3ccc63">
     <bounds
-        x="240"
-        y="516"
+        x="204"
+        y="492"
         width="445"
-        height="55"/>
+        height="37"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-031a73802d354e679b0dced210cb2522.xml#id-031a73802d354e679b0dced210cb2522"/>
