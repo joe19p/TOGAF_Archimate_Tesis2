@@ -34,7 +34,7 @@
       id="id-b444306e65d3478fbfed9d1f65fe05a6"
       targetConnections="id-e018c5558ff040ce82f8b31509e4519c id-219ccacc131540b692cc79ea1a02a1ec">
     <bounds
-        x="672"
+        x="708"
         y="277"
         width="181"
         height="72"/>
@@ -61,7 +61,7 @@
           href="AssociationRelationship_id-6fecceae2ae74571b7f90efd1161c644.xml#id-6fecceae2ae74571b7f90efd1161c644"/>
     </sourceConnections>
     <bounds
-        x="348"
+        x="360"
         y="72"
         width="169"
         height="85"/>
@@ -147,9 +147,9 @@
           href="InfluenceRelationship_id-6af603059c144a95b30d9bad7f948487.xml#id-6af603059c144a95b30d9bad7f948487"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="216"
         y="168"
-        width="445"
+        width="457"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -215,7 +215,7 @@
       <bounds
           x="300"
           y="120"
-          width="120"
+          width="133"
           height="55"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
@@ -274,7 +274,7 @@
           href="AssociationRelationship_id-8ddabd33b9824332be258f4229097d37.xml#id-8ddabd33b9824332be258f4229097d37"/>
     </sourceConnections>
     <bounds
-        x="24"
+        x="15"
         y="276"
         width="164"
         height="74"/>
@@ -296,7 +296,7 @@
           href="InfluenceRelationship_id-aff7c15ac7e745df9e36496a5b5b5dbb.xml#id-aff7c15ac7e745df9e36496a5b5b5dbb"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="216"
         y="372"
         width="217"
         height="37"/>
@@ -318,9 +318,9 @@
           href="InfluenceRelationship_id-23abfc70b7174073b344c47bded8c5bf.xml#id-23abfc70b7174073b344c47bded8c5bf"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="444"
         y="372"
-        width="217"
+        width="229"
         height="37"/>
     <archimateElement
         xsi:type="archimate:Principle"
@@ -340,9 +340,9 @@
           href="SpecializationRelationship_id-e79f2c26cb9d4848939cf17f444772d4.xml#id-e79f2c26cb9d4848939cf17f444772d4"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="216"
         y="432"
-        width="445"
+        width="457"
         height="37"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -353,9 +353,9 @@
       id="id-2620e6da9d894585b6c87fb3937acdf6"
       targetConnections="id-ad4222f538bb43ac8ceb45f76e3ccc63">
     <bounds
-        x="204"
+        x="216"
         y="492"
-        width="445"
+        width="457"
         height="37"/>
     <archimateElement
         xsi:type="archimate:Goal"

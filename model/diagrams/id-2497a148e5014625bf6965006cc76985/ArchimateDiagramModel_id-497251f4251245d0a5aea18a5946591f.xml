@@ -19,6 +19,12 @@
     <features
         name="labelExpression"
         value="Fase Preliminar"/>
+    <sourceConnections
+        id="id-93ccd266091f4d50bfecfcdb4fc0443b"
+        lineColor="#c0c0c0"
+        source="id-f94808fdd53f4d588a393c5056673528"
+        target="id-70cd0ded450342479e5afcffd9a40cc0"
+        type="64"/>
     <bounds
         x="204"
         y="36"
@@ -31,6 +37,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-70cd0ded450342479e5afcffd9a40cc0"
+      targetConnections="id-a46c750930be4d149f21a69173e4b28a id-93ccd266091f4d50bfecfcdb4fc0443b id-d84bdbf2546541469e8f750fd8dd6186"
       alpha="0"
       textPosition="1"
       imagePath="images/_rXB0cD_tEeyOkL5oDZSk3g.png"
@@ -44,6 +51,18 @@
     <features
         name="lineAlpha"
         value="0"/>
+    <sourceConnections
+        id="id-ae35ef52b84e4688932ee1728c534bbc"
+        lineColor="#c0c0c0"
+        source="id-70cd0ded450342479e5afcffd9a40cc0"
+        target="id-21722df1e5484374a8d8ce2d6282aadb"
+        type="64">
+      <bendpoints
+          startX="114"
+          startY="-18"
+          endX="6"
+          endY="-78"/>
+    </sourceConnections>
     <bounds
         x="204"
         y="168"
@@ -56,6 +75,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-21722df1e5484374a8d8ce2d6282aadb"
+      targetConnections="id-ae35ef52b84e4688932ee1728c534bbc"
       alpha="0"
       textPosition="1"
       imagePath="images/_XZAm0D_tEeyOkL5oDZSk3g.png"
@@ -69,6 +89,30 @@
     <features
         name="labelExpression"
         value="Fase B: Arquitectura de Negocios"/>
+    <sourceConnections
+        id="id-668c8cc611c74ad3b78ec7fb766d1a0b"
+        lineColor="#c0c0c0"
+        source="id-21722df1e5484374a8d8ce2d6282aadb"
+        target="id-f345eb5fa946478eb1347855dd50b0ee"
+        type="64">
+      <bendpoints
+          startX="66"
+          startY="-6"
+          endX="6"
+          endY="-114"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-27d2455df6364f6193112cdb187bf5b7"
+        lineColor="#c0c0c0"
+        source="id-21722df1e5484374a8d8ce2d6282aadb"
+        target="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        type="192">
+      <bendpoints
+          startX="-78"
+          startY="18"
+          endX="30"
+          endY="-90"/>
+    </sourceConnections>
     <bounds
         x="312"
         y="228"
@@ -81,6 +125,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-f345eb5fa946478eb1347855dd50b0ee"
+      targetConnections="id-668c8cc611c74ad3b78ec7fb766d1a0b id-9d6e543266ee4a199d5d8e5580c244ab"
       alpha="0"
       textPosition="1"
       imagePath="images/_HAKToD_uEeyOkL5oDZSk3g.png"
@@ -94,6 +139,18 @@
     <features
         name="labelExpression"
         value="Fase C: Arquitectura de Sistemas de información"/>
+    <sourceConnections
+        id="id-3a4c81896c224862ae6384334ea7cd9b"
+        lineColor="#c0c0c0"
+        source="id-f345eb5fa946478eb1347855dd50b0ee"
+        target="id-cf15b34c70474ade9cd7534477285adb"
+        type="64">
+      <bendpoints
+          startX="6"
+          startY="114"
+          endX="66"
+          endY="6"/>
+    </sourceConnections>
     <bounds
         x="372"
         y="336"
@@ -106,6 +163,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-cf15b34c70474ade9cd7534477285adb"
+      targetConnections="id-3a4c81896c224862ae6384334ea7cd9b"
       alpha="0"
       textPosition="1"
       imagePath="images/_WuemoD_uEeyOkL5oDZSk3g.png"
@@ -119,6 +177,30 @@
     <features
         name="labelExpression"
         value="Fase D: Arquitectura de Tecnológica"/>
+    <sourceConnections
+        id="id-0d4aaee5717c41baa00ba7056ccc57ea"
+        lineColor="#c0c0c0"
+        source="id-cf15b34c70474ade9cd7534477285adb"
+        target="id-f2175082ff5d4e329bad413e7402bc90"
+        type="64">
+      <bendpoints
+          startX="-6"
+          startY="78"
+          endX="102"
+          endY="18"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-3a7bd79ef0be4dafb7f15a97ade53a26"
+        lineColor="#c0c0c0"
+        source="id-cf15b34c70474ade9cd7534477285adb"
+        target="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        type="192">
+      <bendpoints
+          startX="-18"
+          startY="-90"
+          endX="90"
+          endY="18"/>
+    </sourceConnections>
     <bounds
         x="312"
         y="444"
@@ -131,6 +213,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-f2175082ff5d4e329bad413e7402bc90"
+      targetConnections="id-0d4aaee5717c41baa00ba7056ccc57ea"
       alpha="0"
       textPosition="1"
       imagePath="images/_F5-TkEAuEeyidb7zb1V3UQ.png"
@@ -144,6 +227,24 @@
     <features
         name="labelExpression"
         value="Fase E: Oportunidades y Soluciones"/>
+    <sourceConnections
+        id="id-05575ec6d4b94a6a8c2fb643ac418673"
+        lineColor="#c0c0c0"
+        source="id-f2175082ff5d4e329bad413e7402bc90"
+        target="id-40298ee282bb45d99bcbba9e98d292e5"
+        type="64">
+      <bendpoints
+          startX="-114"
+          startY="18"
+          endX="-6"
+          endY="78"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-cf406bca757e461686b342679c017636"
+        lineColor="#c0c0c0"
+        source="id-f2175082ff5d4e329bad413e7402bc90"
+        target="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        type="192"/>
     <bounds
         x="204"
         y="504"
@@ -156,6 +257,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-40298ee282bb45d99bcbba9e98d292e5"
+      targetConnections="id-05575ec6d4b94a6a8c2fb643ac418673"
       alpha="0"
       textPosition="1"
       imagePath="images/_F5-TkEAuEeyidb7zb1V3UQ.png"
@@ -169,6 +271,30 @@
     <features
         name="labelExpression"
         value="Fase F: Planificación de migración"/>
+    <sourceConnections
+        id="id-b7d6b87345a149e0b7fedf5a5e242fff"
+        lineColor="#c0c0c0"
+        source="id-40298ee282bb45d99bcbba9e98d292e5"
+        target="id-e50dfa9e12004cabb13ed9910d5eb9bb"
+        type="64">
+      <bendpoints
+          startX="-66"
+          startY="-6"
+          endX="-6"
+          endY="102"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-7f28937c53eb47ed8fc5f291fe03a016"
+        lineColor="#c0c0c0"
+        source="id-40298ee282bb45d99bcbba9e98d292e5"
+        target="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        type="192">
+      <bendpoints
+          startX="18"
+          startY="-90"
+          endX="-90"
+          endY="18"/>
+    </sourceConnections>
     <bounds
         x="96"
         y="444"
@@ -181,6 +307,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-e50dfa9e12004cabb13ed9910d5eb9bb"
+      targetConnections="id-b7d6b87345a149e0b7fedf5a5e242fff"
       alpha="0"
       textPosition="1"
       imagePath="images/_F5-TkEAuEeyidb7zb1V3UQ.png"
@@ -194,6 +321,24 @@
     <features
         name="labelExpression"
         value="Fase G: Gobierno de la implementación"/>
+    <sourceConnections
+        id="id-d420bb3ea04c4270897233e33dab2f9e"
+        lineColor="#c0c0c0"
+        source="id-e50dfa9e12004cabb13ed9910d5eb9bb"
+        target="id-cfd4da29837745c7bd50d86a83b196c1"
+        type="64">
+      <bendpoints
+          startX="-6"
+          startY="-114"
+          endX="-66"
+          endY="-6"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-0db809a0dd5b47d6a02a723a1f66c1f0"
+        lineColor="#c0c0c0"
+        source="id-e50dfa9e12004cabb13ed9910d5eb9bb"
+        target="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        type="192"/>
     <bounds
         x="36"
         y="336"
@@ -206,6 +351,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-cfd4da29837745c7bd50d86a83b196c1"
+      targetConnections="id-d420bb3ea04c4270897233e33dab2f9e"
       alpha="0"
       textPosition="1"
       imagePath="images/_rXB0cD_tEeyOkL5oDZSk3g.png"
@@ -219,6 +365,30 @@
     <features
         name="labelExpression"
         value="Fase H: Desarrollo y Mantenimiento"/>
+    <sourceConnections
+        id="id-a46c750930be4d149f21a69173e4b28a"
+        lineColor="#c0c0c0"
+        source="id-cfd4da29837745c7bd50d86a83b196c1"
+        target="id-70cd0ded450342479e5afcffd9a40cc0"
+        type="64">
+      <bendpoints
+          startX="-6"
+          startY="-78"
+          endX="-114"
+          endY="-18"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-2cd80bd3ff214ba0a8e155149fed6436"
+        lineColor="#c0c0c0"
+        source="id-cfd4da29837745c7bd50d86a83b196c1"
+        target="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        type="192">
+      <bendpoints
+          startX="78"
+          startY="18"
+          endX="-30"
+          endY="-90"/>
+    </sourceConnections>
     <bounds
         x="96"
         y="228"
@@ -231,6 +401,7 @@
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+      targetConnections="id-cf406bca757e461686b342679c017636 id-3a7bd79ef0be4dafb7f15a97ade53a26 id-7f28937c53eb47ed8fc5f291fe03a016 id-0db809a0dd5b47d6a02a723a1f66c1f0 id-2cd80bd3ff214ba0a8e155149fed6436 id-27d2455df6364f6193112cdb187bf5b7"
       alpha="0"
       textPosition="1"
       imagePath="images/_wQfNMEAuEeyidb7zb1V3UQ.png"
@@ -244,6 +415,18 @@
     <features
         name="labelExpression"
         value="Gestión de Requerimientos"/>
+    <sourceConnections
+        id="id-d84bdbf2546541469e8f750fd8dd6186"
+        lineColor="#c0c0c0"
+        source="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        target="id-70cd0ded450342479e5afcffd9a40cc0"
+        type="192"/>
+    <sourceConnections
+        id="id-9d6e543266ee4a199d5d8e5580c244ab"
+        lineColor="#c0c0c0"
+        source="id-14c9e663fde9467b8b0f2a4e39af6ce7"
+        target="id-f345eb5fa946478eb1347855dd50b0ee"
+        type="192"/>
     <bounds
         x="204"
         y="336"
