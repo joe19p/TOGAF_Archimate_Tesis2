@@ -1,4 +1,4 @@
-# Arquitectura Empresarial para una clinica
+# Arquitectura Empresarial para una clínica
 
 La Arquitectura Empresarial define las relaciones entre los principales activos de una empresa, incluyendo procesos, personas, productos, servicios, aplicaciones, tecnología, documentos, etc.
 
