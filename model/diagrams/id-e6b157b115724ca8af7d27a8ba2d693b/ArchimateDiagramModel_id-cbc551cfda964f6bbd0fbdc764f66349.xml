@@ -1963,4 +1963,28 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-9acefe702e2e44d7af9eb26655475189.xml#id-9acefe702e2e44d7af9eb26655475189"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-5b94d5810ef348dca02fad1f3551d7ec"
+      alpha="0"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="72"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-2848aa87756b46da8b08f27f70eb5bc6.xml#id-2848aa87756b46da8b08f27f70eb5bc6"/>
+  </children>
 </archimate:ArchimateDiagramModel>

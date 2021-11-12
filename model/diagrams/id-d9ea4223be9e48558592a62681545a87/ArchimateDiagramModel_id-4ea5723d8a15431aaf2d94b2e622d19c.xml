@@ -374,4 +374,28 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-afa29e528a0349fb8028fae1b25e2331"
+      alpha="0"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="72"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-ae3c184320a24a06b35329c71701ed9b.xml#id-ae3c184320a24a06b35329c71701ed9b"/>
+  </children>
 </archimate:ArchimateDiagramModel>

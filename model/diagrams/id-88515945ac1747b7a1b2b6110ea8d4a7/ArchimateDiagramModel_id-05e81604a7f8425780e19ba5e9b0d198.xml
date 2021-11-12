@@ -121,7 +121,7 @@
         id="id-f726261c52b5479aababba4ac4469855"
         textAlignment="1"
         fillColor="#d6f0fe"
-        content="Aquitectura de Datos"
+        content="Aquitectura de Aplicación"
         borderType="1">
       <bounds
           x="12"
@@ -134,7 +134,7 @@
         id="id-058fed7019aa44949f3b7e8e9f769e82"
         textAlignment="1"
         fillColor="#d6f0fe"
-        content="Aquitectura de Aplicación"
+        content="Aquitectura de Datos"
         borderType="1">
       <bounds
           x="12"

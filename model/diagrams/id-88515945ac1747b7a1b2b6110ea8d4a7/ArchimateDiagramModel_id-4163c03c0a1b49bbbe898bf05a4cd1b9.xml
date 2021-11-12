@@ -931,7 +931,7 @@
         value=" "/>
     <bounds
         x="-108"
-        y="24"
+        y="12"
         width="49"
         height="49"/>
     <referencedModel
@@ -959,5 +959,29 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-ffbfe08a4f5346308550b48d92cf62e6.xml#id-ffbfe08a4f5346308550b48d92cf62e6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-442e3939b9b04fff8ac7bdf75171ab16"
+      alpha="0"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <features
+        name="iconVisible"
+        value="2"/>
+    <bounds
+        x="-52"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-05e81604a7f8425780e19ba5e9b0d198.xml#id-05e81604a7f8425780e19ba5e9b0d198"/>
   </children>
 </archimate:ArchimateDiagramModel>

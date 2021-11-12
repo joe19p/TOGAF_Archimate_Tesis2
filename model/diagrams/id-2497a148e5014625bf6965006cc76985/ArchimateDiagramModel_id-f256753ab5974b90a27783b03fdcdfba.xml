@@ -16,8 +16,8 @@
         value="0"/>
     <bounds
         x="192"
-        y="60"
-        width="469"
+        y="72"
+        width="445"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -96,7 +96,7 @@
         value="Fase Preliminar"/>
     <bounds
         x="48"
-        y="60"
+        y="72"
         width="121"
         height="121"/>
     <referencedModel
@@ -121,7 +121,7 @@
         value="0"/>
     <bounds
         x="48"
-        y="192"
+        y="204"
         width="121"
         height="121"/>
     <referencedModel
@@ -140,8 +140,8 @@
         value="0"/>
     <bounds
         x="192"
-        y="192"
-        width="469"
+        y="204"
+        width="445"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -200,7 +200,7 @@
         value="Fase C: Arquitectura de Sistemas de información"/>
     <bounds
         x="48"
-        y="456"
+        y="468"
         width="121"
         height="121"/>
     <referencedModel
@@ -219,8 +219,8 @@
         value="0"/>
     <bounds
         x="192"
-        y="456"
-        width="469"
+        y="468"
+        width="445"
         height="217"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -380,8 +380,8 @@
         name="labelExpression"
         value="Fase D: Arquitectura de Tecnológica"/>
     <bounds
-        x="48"
-        y="684"
+        x="660"
+        y="72"
         width="121"
         height="121"/>
     <referencedModel
@@ -399,9 +399,9 @@
         name="gradient"
         value="0"/>
     <bounds
-        x="192"
-        y="684"
-        width="469"
+        x="804"
+        y="72"
+        width="445"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -479,7 +479,7 @@
         value="Fase B: Arquitectura de Negocios"/>
     <bounds
         x="48"
-        y="324"
+        y="336"
         width="121"
         height="121"/>
     <referencedModel
@@ -498,8 +498,8 @@
         value="0"/>
     <bounds
         x="192"
-        y="324"
-        width="469"
+        y="336"
+        width="445"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -558,5 +558,88 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-a9601e51cf1446aa9698e47ef65e429f.xml#id-a9601e51cf1446aa9698e47ef65e429f"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-9940523e92464334992c4fb94741dd79"
+      alpha="0"
+      textPosition="1"
+      imagePath="images/_F5-TkEAuEeyidb7zb1V3UQ.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value="Fase E: Oportunidades y Soluciones"/>
+    <bounds
+        x="660"
+        y="204"
+        width="121"
+        height="121"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-eaace97d44834855898fc012f9661ae7.xml#id-eaace97d44834855898fc012f9661ae7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-adc934fae0a64f9db2cfb17f26682fe8"
+      name="Entregables"
+      textAlignment="1"
+      fillColor="#ffd9d9"
+      borderType="1">
+    <bounds
+        x="804"
+        y="204"
+        width="445"
+        height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-4828e9a6be0243268a21ee561230eeac"
+        fillColor="#ffd9d9">
+      <features
+          name="iconVisible"
+          value="2"/>
+      <features
+          name="labelExpression"
+          value="Entregable 18. &#xD;&#xA;Roadmap"/>
+      <bounds
+          x="12"
+          y="36"
+          width="121"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-ea42227872de4098b40168368b7e1028.xml#id-ea42227872de4098b40168368b7e1028"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1f78204026e34a309e3bf7ebe0ca54cd"
+      fontColor="#ffffff"
+      alpha="0"
+      textPosition="2"
+      imagePath="images/_rPZOQD4zEeyxpIbH5Ounvg.png"
+      imagePosition="9">
+    <features
+        name="iconVisible"
+        value="2"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="12"
+        y="12"
+        width="49"
+        height="49"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-497251f4251245d0a5aea18a5946591f.xml#id-497251f4251245d0a5aea18a5946591f"/>
   </children>
 </archimate:ArchimateDiagramModel>
